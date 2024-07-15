@@ -12,6 +12,5 @@ int main() {
     {
         cout << number << " is odd." << endl;
     }
-    00000
     return 0;
 }
